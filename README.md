@@ -1,6 +1,6 @@
 # Term Project Proposal: Deep Learning
 
-- **Student Name:** ChoHyeongmin(조형)
+- **Student Name:** ChoHyeongmin(조형민)
 - **Title:** Implementation of Natural Language-to-Motor Trajectory Mapping for Humanoid Robots using LLMs
 
 ### Summary
